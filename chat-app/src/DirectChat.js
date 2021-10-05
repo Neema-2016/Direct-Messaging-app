@@ -45,8 +45,8 @@ const DirectChat = () => {
             // projectID={process.env.CHAT_APP_PROJECT_ID}
             userName='Muganga'
             // userSecret={process.env.CHAT_APP_USER_SECRET}
-            userSecret ='hpM6BxpEAy3N!Ag'
-            projectID ='8296ad17-4229-4bcd-a65d-6894718daa54'
+            userSecret ='your secret key goes here'
+            projectID ='project id goes here'
             displayNewChatInterface={(creds) => displayChatInterface(creds)}
             />
     )
